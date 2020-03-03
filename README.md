@@ -3,5 +3,5 @@ Adaptive Floor Plan using Rhino Grasshopper. Grasshopper is a visual scripting i
 
 Example by Wallgren Arkitekter
 <div align="center">
-	<img width="100%" height="100%" src="https://github.com/bennettoh/GH-Adaptive-Floor-Plan/preview.gif?raw=true" alt="Preview">
+	<img width="100%" height="100%" src="https://github.com/bennettoh/GH-Adaptive-Floor-Plan/blob/master/preview.gif?raw=true" alt="Preview">
 </div>
